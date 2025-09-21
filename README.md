@@ -18,16 +18,16 @@ Community Edition — the complete package, featuring Online Shop Service, Shipp
 ##### 传送门 Github Url
 
 商城服务(Online Shop Service):
-[https://github.com/LeungYu/suiyangdi-scum-game-store](https://github.com/LeungYu/suiyangdi-scum-game-store)
+[https://github.com/LeungYu/suiyangdi-scum-online-shop](https://github.com/LeungYu/suiyangdi-scum-online-shop)
 
 发货机器人(Shipping Bot Software):
 [https://github.com/LeungYu/suiyangdi-scum-game-shipping-bot](https://github.com/LeungYu/suiyangdi-scum-game-shipping-bot)
 
 联办服务(SCUM Player Blacklist Admin Service):
-[https://github.com/LeungYu/suiyangdi-scum-game-lianban](https://github.com/LeungYu/suiyangdi-scum-game-lianban)
+[https://github.com/LeungYu/suiyangdi-scum-banlist-server](https://github.com/LeungYu/suiyangdi-scum-banlist-server)
 
 图片服务(Image Service):
-[https://github.com/LeungYu/suiyangdi-scum-game-image-server](https://github.com/LeungYu/suiyangdi-scum-game-image-server)
+[https://github.com/LeungYu/suiyangdi-scum-shop-image-server](https://github.com/LeungYu/suiyangdi-scum-shop-image-server)
 
 以上内容已经申请中日两国(软件)著作权，私自利用开源作品进行盈利需要负法律责任，请勿以身试法。
 
